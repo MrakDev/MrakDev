@@ -2,7 +2,7 @@
 
 I'm Мрак, I love the .NET language and I'm also a reverse engineering enthusiast.
 
-![GitHub followers](https://img.shields.io/github/followers/MrakDev?style=for-the-badge) ![Discord ID](https://img.shields.io/badge/Discord-Мрак%230821-blue?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/MrakDev?style=for-the-badge) ![Discord ID](https://img.shields.io/badge/Discord-Мрак%231202-blue?style=for-the-badge)
 <!--
 **MrakDev/MrakDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
